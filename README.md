@@ -1,1 +1,1 @@
-# python-crypto-exchanges-adapter
+# Python CryptoCurrency eXchange Adapter
